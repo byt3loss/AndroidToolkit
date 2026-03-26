@@ -11,3 +11,13 @@ Simple AVD manager to start and stop Android emulators.
 TODO:
 - Add automation for certificate installation
 - Add automation for Frida server intallation
+
+## APKRebuild
+
+# AutoSignAPK
+
+Simple bash script to automatically rebuild, zipalign and sign APKs.
+
+Usage: `./apkreb.sh <decompiled_apk_directory/>`
+
+![](img/apkreb.png)
