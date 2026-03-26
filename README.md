@@ -14,8 +14,6 @@ TODO:
 
 ## APKRebuild
 
-# AutoSignAPK
-
 Simple bash script to automatically rebuild, zipalign and sign APKs.
 
 Usage: `./apkreb.sh <decompiled_apk_directory/>`
